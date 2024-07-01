@@ -1,7 +1,6 @@
 <p align="center"> 
 <div style="text-align: center;"> <img src="http://itzkitb.ru/bot/images/556fb33f-79d7-4914-af3f-67bb411ad272.jpg" style="border-radius: 25px; width: 400px; height: 400px;"> <h1 style="color: rgb(157, 225, 61);">ButterBror</h1> <p style="color: grey; font-size: 14px;">Twitch bot</p> </div>
 </p>
-# butterBror Twitch Bot
 
 Welcome to the butterBror Twitch Bot repository! This bot was created for the Twitch channels [butterBror](https://twitch.tv/butterBror) and offers various commands and features to enhance the chatters experience.
 
